@@ -14,7 +14,7 @@ Objective :
 * Finding out how many times team won the match after winning toss
 * Describing number of runs scored by team as per match
 
-Data Source Extrated From :https://www.kaggle.com/raghu07/ipl-data-till-2017
+Data Source Extracted From :https://www.kaggle.com/raghu07/ipl-data-till-2017
 
 Librearies used in this EDA are Numpy,Pandas,Matpotlib and graphs used are barplot,piechart,histogram,Lineplot
 
