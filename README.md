@@ -16,7 +16,7 @@ Objective :
 
 Data Source Extracted From :https://www.kaggle.com/raghu07/ipl-data-till-2017
 
-Librearies used in this EDA are Numpy,Pandas,Matpotlib and graphs used are barplot,piechart,histogram,Lineplot
+Libraries used in this EDA are Numpy,Pandas,Matpotlib and graphs used are barplot,piechart,histogram,Lineplot
 
 
 Dataset Information : 
