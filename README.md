@@ -1,4 +1,4 @@
-Performed Exploratory Data Analysis on IPL Match
+Performed Exploratory Data Analysis and Data Visualization on IPL Match
 
 
 Objective :
@@ -16,7 +16,7 @@ Objective :
 
 Data Source Extracted From :https://www.kaggle.com/raghu07/ipl-data-till-2017
 
-Libraries used in this EDA are Numpy,Pandas,Matpotlib and graphs used are barplot,piechart,histogram,Lineplot
+Libraries used in this EDA are Numpy,Pandas,Matpotlib and plots used are barplot,piechart,histogram,Lineplot
 
 
 Dataset Information : 
